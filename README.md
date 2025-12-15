@@ -1,4 +1,4 @@
-# cloud-technologies 1
+# cloud-technologies 
 ---------------------
 Николайчук Валерия К3242  
 Лукис Вадим К3242  
